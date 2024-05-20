@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -euo pipefail
+
+mlflow ui --backend-store-uri sqlite:///db/mlflow.sqlite
