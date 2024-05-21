@@ -1,9 +1,11 @@
 setuptools
 wheel
-mlflow
+mlflow~=2.13.0
 jupyter
-scikit-learn
-pandas
+scikit-learn~=1.4.2
+pandas~=2.2.2
 seaborn
 hyperopt
 xgboost
+click~=8.1.7
+optuna

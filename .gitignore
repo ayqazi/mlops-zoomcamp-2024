@@ -160,3 +160,5 @@ cython_debug/
 /db/mlflow.sqlite
 /notebooks/data/
 /notebooks/models/
+/homework-2/raw/
+/artifacts/
