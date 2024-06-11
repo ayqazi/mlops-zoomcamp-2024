@@ -2,7 +2,7 @@ setuptools
 wheel
 mlflow~=2.13.0
 jupyter
-scikit-learn~=1.4.2
+scikit-learn~=1.5.0
 pandas~=2.2.2
 seaborn
 hyperopt
